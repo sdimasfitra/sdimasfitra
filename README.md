@@ -5,7 +5,7 @@ Also known as dimas, Beginner Fullstack Web Developer from  South Sumatera, Indo
 ### Connect with me:
 
 <p align="left">
-<a href="https://twitter.com/maz_ipan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maz_ipan" height="30" width="40" /></a>
+<a href="https://instagram.com/dimasfitra_s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sdimasfitra" height="30" width="40" /></a>
 </p>
 
 ### Support me on:
