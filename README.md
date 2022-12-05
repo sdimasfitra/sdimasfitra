@@ -1,14 +1,6 @@
-👋 Hey! Nice to see you.
+# 👋 Hi, I'm Dimas Fitra Setiawan
 
-Welcome to my Github Profile !
-
-I'm Dimas, Beginner Fullstack Web Developer from  South Sumatera, Indonesia.
-
-
-
-# 👋 Hi, I'm Irfan Maulana
-
-Also known as mazipan, web developer from Indonesia 🇮🇩.
+Also known as dimas, Beginner Fullstack Web Developer from  South Sumatera, Indonesia.
 
 ### Connect with me:
 
