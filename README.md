@@ -9,4 +9,3 @@ Also known as dimas, Beginner Fullstack Web Developer from  South Sumatera, Indo
 </p>
 
 
-![@sdimasfitra GitHub stats](https://github-readme-stats.vercel.app/api?username=sdimasfitra&count_private=true&theme=codeSTACKr&show_icons=true)
