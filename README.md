@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Dimas Fitra Setiawan
+# 👋 Hi, I'm Dimas
 
 Also known as dimas, Beginner Fullstack Web Developer from  South Sumatera, Indonesia.
 
