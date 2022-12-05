@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Dimas
 
-Also known as dimas, Beginner Fullstack Web Developer from  South Sumatera, Indonesia.
+Beginner Fullstack Web Developer from  South Sumatera, Indonesia.
 
 ### Connect with me:
 
