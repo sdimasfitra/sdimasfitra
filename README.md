@@ -1,6 +1,6 @@
 
 <h2 align="left">
-<👋img src="https://readme-typing-svg.herokuapp.com?color=%231586B1&size=25&center=true&vCenter=true&lines=Hi+there!%2C+I'm+Dimas">
+<img src="https://readme-typing-svg.herokuapp.com?color=%231586B1&size=25&center=true&vCenter=true&lines=Hi!%2C+I'm+Dimas">
 </h2>
 
 Beginner Fullstack Web Developer from  South Sumatera, Indonesia.
