@@ -6,7 +6,7 @@ Hello world! 👋 I'm Dimas Fitra Setiawan, a backend developer biidznillah who 
 
 - 💻 Backend Developer
 - 🌱 Currently learning php, JavaScript programming language and laravel framework, Data Structure using MySQL
-- 📫 How to reach me: sdimasfitraa@gmail.com
+- 📫 Contact me: sdimasfitraa@gmail.com
 
 ## Skills
 
