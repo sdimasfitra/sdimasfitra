@@ -31,7 +31,7 @@ A backend developer biidznillah who is passionate about giving benefits from Ind
   <img width="12" />
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=PHP-Dark" height="40" alt="php logo"  />
+  <img src="http://www.w3.org/2000/svg" height="40" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
   <img width="12" />
