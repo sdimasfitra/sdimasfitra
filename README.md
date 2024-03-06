@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdimasfitra&label=Profile%20views&color=0e75b6&style=flat" alt="sdimasfitra" /> </p>
 
 <h1 align="center">Hi 👋, I'm Dimas Fitra Setiawan</h1>
-<br/>
 <img align="right" alt="Coding" width="450" style="border-radius:20px;"
 src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
  
