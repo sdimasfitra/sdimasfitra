@@ -2,7 +2,6 @@
 
 <h1 align="center">Hi 👋, I'm Dimas Fitra Setiawan</h1>
 <br/>
-
 A backend developer biidznillah who is passionate about giving benefits from Indonesia. Welcome to my GitHub profile! Please feel free to explore my repository and projects.
 
 ## About Me
