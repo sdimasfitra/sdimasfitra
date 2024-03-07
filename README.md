@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sdimasfitra&label=Profile%20views&color=0e75b6&style=flat" alt="sdimasfitra" /> </p>
 
-<h1 align="center">Hi 👋, I'm Dimas Fitra Setiawan</h1>
+<h1 align="center">Hi 👋 I'm Dimas Fitra Setiawan</h1>
 <img align="right" alt="Coding" width="450" style="border-radius:20px;"
 src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
  
@@ -39,6 +39,13 @@ A backend developer biidznillah who is passionate about giving benefits from Ind
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+<h3 align="left">💾 Databases &emsp;</h3>
+
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 ###
 </div>
